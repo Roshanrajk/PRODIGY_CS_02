@@ -1,5 +1,4 @@
-
-#PRODIGY_CS_02
+# PRODIGY_CS_02
 
 
 🔒 Task Completed: Image Encryption/Decryption Script in Python! 🔒
