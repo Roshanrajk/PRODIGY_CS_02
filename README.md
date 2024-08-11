@@ -1,16 +1,22 @@
-Unlock simple image encryption and decryption with this Python script! This tool uses XOR operations to modify image files, allowing you to secure or reveal their content with a key.
 
-Key Features
+#PRODIGY_CS_02
 
-XOR Encryption/Decryption: Alter image bytes using a key. Encrypt by modifying byte values, or decrypt by reversing the process with the same key.
-File Handling: Reads and writes images in binary mode, ensuring proper file operations and closure.
-User-Friendly: Select encryption or decryption, and input the file path and key when prompted.
 
-How It Works
-Select Mode: Choose to encrypt or decrypt the image.
-Input Details: Provide the image path and XOR key.
-Process: The script reads the image, applies the XOR operation to each byte, and writes the modified data back.
-Important Notes
-Key Consistency: Use the same key for both encryption and decryption.
-Backup: Keep a backup of the original image to prevent data loss.
-Security: This method is simple and not for strong data protection.
+🔒 Task Completed: Image Encryption/Decryption Script in Python! 🔒
+
+I’m excited to announce that I’ve successfully developed a Python program for encrypting and decrypting image files using XOR operations. This script enables users to secure or reveal image content by simply providing a key.
+
+Key Features:
+Encryption: Modify your image by applying an XOR operation with a specified key.
+Decryption: Restore the image to its original state using the same key.
+This project was a great opportunity to explore file handling and image processing in Python, enhancing both my technical and problem-solving skills.
+
+Looking forward to tackling more challenges and learning opportunities! 🚀
+
+#Python #ImageProcessing #Encryption #Decryption #Programming #ProdigyInfoTech #Learning
+
+
+
+
+
+
